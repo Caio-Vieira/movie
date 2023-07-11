@@ -13,11 +13,12 @@ having a 'Details' page, a 'Movie Search' page, which contains in addition to th
 
 ````
 <h2>
-<h3>For Login and Sign Up checks, you need to create the auth file.js inside the auth folder, and put your firebase settings.</h3>
+<h3> For Login and Registration verifications, it is necessary to create an auth folder with auth.js file inside the
+auth.js and put your firebase settings.</h3>
 <h3>2 - firebase </h3>
 
   ````
- npm install
+ npm install firebase
 
  ````
 <h2>
