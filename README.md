@@ -89,12 +89,29 @@ npx expo start
 
 ````
 <h2>
-<div display= "flex" margin="10">
-<img align="center" alto="Caio-html" height="500" width="280" src="https://github.com/Caio-Vieira/movie/assets/129814574/0cefb7a8-b258-49aa-91a5-b059caed7e43">  
-<img align="center alto="Caio-html"  height="500"  width="280" src="https://github.com/Caio-Vieira/movie_site/assets/129814574/e41eff40-538b-4a81-b7c4-3eccf7bb4964">
-
-  
+<div display= "flex" align="center">
+<img align="center" alto="Caio-home"  height="500" width="278" src="https://github.com/Caio-Vieira/movie/assets/129814574/0cefb7a8-b258-49aa-91a5-b059caed7e43">  
+<img align="center" alto="Caio-login"  height="500"  width="278" src="https://github.com/Caio-Vieira/movie_site/assets/129814574/e41eff40-538b-4a81-b7c4-3eccf7bb4964">
 </div>
+<h2>
+<div display= "flex" align="center">
+<img align="center" alto="Caio-home"  height="500" width="278" src="https://github.com/Caio-Vieira/movie_site/assets/129814574/2c17185d-5fcc-4c53-a8fa-caa835c03e68">  
+<img align="center" alto="Caio-login"  height="500"  width="278" src="https://github.com/Caio-Vieira/movie_site/assets/129814574/5941eb37-bbc9-48d7-b650-c2604f3794d8">
+</div>
+<h2>
+<div display= "flex" align="center">
+<img align="center" alto="Caio-home"  height="500" width="278" src="https://github.com/Caio-Vieira/movie_site/assets/129814574/ae740141-e856-490b-8823-a31bbd58d6b4">  
+<img align="center" alto="Caio-login"  height="500"  width="278" src="https://github.com/Caio-Vieira/movie_site/assets/129814574/17df887c-089d-404c-b0fc-eee8845f4131">
+</div>
+<h2>
+<div display= "flex" align="center">
+<img align="center" alto="Caio-home"  height="500" width="278" src="https://github.com/Caio-Vieira/movie_site/assets/129814574/ccaed9c2-c547-4f54-85fc-088130ee4af2">  
+<img align="center" alto="Caio-login"  height="500"  width="278" src="https://github.com/Caio-Vieira/movie_site/assets/129814574/a9604f5c-54bb-496c-ae2d-605216dd2d29">
+</div>
+
+
+
+
   
 
 
