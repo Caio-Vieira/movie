@@ -88,6 +88,15 @@ If you want to check in the Community, follow the link</h3>
 npx expo start
 
 ````
+<h2>
+<div display= "flex" margin="10">
+<img align="center" alto="Caio-html" height="500" width="280" src="https://github.com/Caio-Vieira/movie/assets/129814574/0cefb7a8-b258-49aa-91a5-b059caed7e43">  
+<img align="center alto="Caio-html"  height="500"  width="280" src="https://github.com/Caio-Vieira/movie_site/assets/129814574/e41eff40-538b-4a81-b7c4-3eccf7bb4964">
+
+  
+</div>
+  
+
 
 
 
