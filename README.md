@@ -83,7 +83,7 @@ npm install react-native-web-webview –save
 If you want to check in the Community, follow the link</h3>
 <h3>community link   https://github.com/react-native-web-community/react-native-web-webview.</h3>
 <h2>
-<h3>To upload the project use</h3>
+<h3>Ready to render use the command</h3>
 
 ````
 npx expo start
